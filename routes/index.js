@@ -2,9 +2,10 @@ var express = require('express');
 const fs = require('fs');
 
 var router = express.Router();
-fake_secret_key = 'bfasdf09ffaScsXppfOylL9FPUwrZ3E'
-fake_secret_key2 = 'bbsdfbsherg34tgDVERUwrZ3E'
-fake_secret_key3 = '09f00f90f3FWEF34VXq9398L9FPUwrZ3E'
+'bfasdf09ffaScsXppfOylL9FPUwrZ3E'
+'bbsdfbsherg34tgDVERUwrZ3E'
+'09f00f90f3FWEF34VXq9398L9FPUwrZ3E'
+'09f00f90wefwfwefFPUwrZ3E'
 // gg signature token: custom_hook1 - b1TO90YHXppOylL9FPUwrZ3E
 
 /* GET home page. */
