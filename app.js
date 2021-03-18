@@ -39,4 +39,5 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+secret_key2='FSvereg34346bFWVdvd32Gberg434Hh63D'
 module.exports = app;
